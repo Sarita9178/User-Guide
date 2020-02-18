@@ -1,5 +1,5 @@
 # User-Guide
-This guide answers the “why, where, and how” questions that most users have when learning to use [LoyaltyXpert's] (https://www.loyaltyxpert.com/) platform. You’ll find lots of step-by-step instructions, screenshots, and examples.
+This guide answers the “why, where, and how” questions that most users have when learning to use LoyaltyXpert's (https://www.loyaltyxpert.com/) platform. You’ll find lots of step-by-step instructions, screenshots, and examples.
 
 ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
