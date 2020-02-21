@@ -3,7 +3,7 @@ This guide answers the “why, where, and how” questions that most users have 
 
 ![Tux, the Linux mascot](insert the link)
 
-LoyaltyXpert allows the businesses to customize their loyalty & reward program.Businesses have the power to create engaging programs that generate customer loyalty and increase sales. Through this Platform, you can easily manage the rewards and loyalty points to be provided to your end-customers. Thereafter, the customers can earn or redeem the points as per the rules defined by you.
+LoyaltyXpert allows the businesses to customize their loyalty & reward program. Businesses have the power to create engaging programs that generate customer loyalty and increase sales. Through this Platform, you can easily manage the rewards and loyalty points to be provided to your end-customers. Thereafter, the customers can earn or redeem the points as per the rules defined by you.
 
 # Getting started
 The Getting started section introduces your Loyalty Platform Admin, and walks you through the basic configuration settings. You’ll get an overview of the features that are available to you as an Admin of the LoyaltyXpert and how to log into your Admin account. 
