@@ -20,6 +20,14 @@ The Products section makes you familiar with the product master menu, it allows 
 # Rules & Promotions
 The Rules & Promotion provides an overview of the ways for customers to earn points – the engine of your Loyalty Program. module of the software makes you understand the loyalty earning rules for the end-customer. The admin can create rules and promotional rules and can manage the referral module.
 
-# 
+# Loyalty & Redemption 
+The loyalty and redemption module provide feature for adding loyalty manually, revert loyalty along with the ready to redeem list. 
 
+# Transaction Details 
+This section will enhance your knowledge regarding how to manage the transaction based reports such as Loyalty transaction, Redemption Transaction, Revert Transaction.
 
+# Broadcast SMS/Notification
+In this section of the guide, you’ll learn about how to broadcast your offers across your customers through SMS or Push notification.
+
+# Report 
+This section of the guide enhances the user to find different type of reports. These are basically the general reports like audit log, Active mobile app customer, loyalty scan report etc.
