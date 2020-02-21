@@ -15,7 +15,7 @@ In the SubUser section of the guide, you will learn how to create and use intern
 The Customers section makes you familiar with the customer account menu, and learn to manage customer accounts according to adding, deleting and modifying data. You will also learn how to manage the KYC and Bank Details of the customer. You can also check a particular customer's loyalty statement.
 
 # Products
-The Products section makes you familiar with the product master menu, it allows the user to create and manage the product along with their categories they belong to. The product label print menu in the module deals with the labels printed for a particular products.
+The Products section makes you familiar with the product master menu, it allows the user to create and manage the product along with their categories they belong to. The product label print menu in the module deals with the labels printed for a particular products. The QR menu in this section has a very crucial role in the mangaing the loyalty.The user is amde familiar about how teh codes are auto generated from this section are is mapped onto other module of the program for a seemless flow. 
 
 # Rules & Promotions
 The Rules & Promotion provides an overview of the ways for customers to earn points – the engine of your Loyalty Program. module of the software makes you understand the loyalty earning rules for the end-customer. The admin can create rules and promotional rules and can manage the referral module.
